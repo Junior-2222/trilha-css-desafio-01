@@ -1,5 +1,5 @@
 # *Minha descrição para o desafio*:
-Passe o mouse por cima dos botões para velos ficar quadrados, mesmo sendo transparente e com bordas gradientes.
+Passe o mouse por cima dos botões para velos ficar quadrados, mesmo sendo transparente e com bordas gradientes. Ajuste o tamanho de sua janela e vera que está responsivo o design.
 ### ***Minha versão finalizada -> https://junior-2222.github.io/trilha-css-desafio-01/***
 <br>
 <hr>
